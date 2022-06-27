@@ -17,7 +17,7 @@
   role: Teenager Population in Suwon<br>
         ParkingLot&Parking Blocking<br>
      <br>
- 4. 언어게임[](Python)<br>
+ 4. 언어게임[Onecard,word game](Python)<br>
   ToyProject<br>
   
         
