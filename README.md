@@ -1,7 +1,7 @@
 # PORTFOLIO
 
 
-1.서울 모범식당[Model restaurant in Seoul] (Python, MySQL) <br>
+1.서울 모범식당[Model Restaurant in Seoul] (Python, MySQL) <br>
   TeamProject<br>
   role: 0. database connect, create database,table<br>
         1.naver map api connect<br>
