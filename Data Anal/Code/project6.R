@@ -54,7 +54,7 @@ total_yth_gu$sty_num<- c(length(which(suwon_studyroom$addr == "권선구")), len
 head(total_yth_gu)
 #청소년 인구와 공부방 개수는 상관없다.
 
-ggmap_key <- "AIzaSyBzhYkZWSYHj5jWt_Lig1ioUekdtgHGiyg"
+ggmap_key <- "AIzXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX"
 register_google(ggmap_key) 
   suwon_studyroom <- mutate_geocode(data = suwon_studyroom,location=addr2,source='google' )
 
