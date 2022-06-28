@@ -22,9 +22,9 @@
   ToyProject<br>
   <div>
   <a href="https://github.com/kiarnel/PORTFOLIO/blob/main/ToyProject/word%20Game/WordGame.png"><img src="https://github.com/kiarnel/PORTFOLIO/blob/main/ToyProject/word%20Game/WordGame.png" alt=WordGame></a>
-  
+   </div>
     <p>[영어 단어 맞추기 게임]</p>
-  </div>
+ 
   
         
         
