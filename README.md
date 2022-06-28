@@ -22,6 +22,9 @@
   role: Teenager Population in Suwon<br>
         ParkingLot&Parking Blocking<br>
      <br>
+ <div>
+ <a href="https://github.com/kiarnel/PORTFOLIO/blob/main/Data%20Anal/Image/ParkingLot%26Googlemap/P2%EC%88%98%EC%9B%90%20%EC%A3%BC%EC%B0%A8%EC%9E%A5%20%EC%A7%80%EB%8F%84.png"><img src="https://github.com/kiarnel/PORTFOLIO/blob/main/Data%20Anal/Image/ParkingLot%26Googlemap/P2%EC%88%98%EC%9B%90%20%EC%A3%BC%EC%B0%A8%EC%9E%A5%20%EC%A7%80%EB%8F%84.png"></a>
+ </div>
  4. 게임 {word game} (Python)<br>
   ToyProject<br>
   <div>
