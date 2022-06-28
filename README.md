@@ -24,7 +24,9 @@
      <br>
  <div>
  <a href="https://github.com/kiarnel/PORTFOLIO/blob/main/Data%20Anal/Image/ParkingLot%26Googlemap/P2%EC%88%98%EC%9B%90%20%EC%A3%BC%EC%B0%A8%EC%9E%A5%20%EC%A7%80%EB%8F%84.png"><img src="https://github.com/kiarnel/PORTFOLIO/blob/main/Data%20Anal/Image/ParkingLot%26Googlemap/P2%EC%88%98%EC%9B%90%20%EC%A3%BC%EC%B0%A8%EC%9E%A5%20%EC%A7%80%EB%8F%84.png"></a>
+ <a href="https://github.com/kiarnel/PORTFOLIO/blob/main/Data%20Anal/Image/ParkingLot%26Parking%20Blocking/P7%EA%B3%B5%EC%98%81%EC%A3%BC%EC%B0%A8%EC%9E%A5%20%EC%9D%B4%EC%9A%A9%EA%B0%80%EB%8A%A5%20%EC%88%98%EC%99%80%20%EC%A3%BC%EC%B0%A8%EB%8B%A8%EC%86%8D%20%EC%88%98%EC%9D%98%20%EC%82%B0%EC%A0%90%EB%8F%84.png"><img src="https://github.com/kiarnel/PORTFOLIO/blob/main/Data%20Anal/Image/ParkingLot%26Parking%20Blocking/P7%EA%B3%B5%EC%98%81%EC%A3%BC%EC%B0%A8%EC%9E%A5%20%EC%9D%B4%EC%9A%A9%EA%B0%80%EB%8A%A5%20%EC%88%98%EC%99%80%20%EC%A3%BC%EC%B0%A8%EB%8B%A8%EC%86%8D%20%EC%88%98%EC%9D%98%20%EC%82%B0%EC%A0%90%EB%8F%84.png" width=50% height=50%></a>
  </div>
+ <p>R Studio를 이용한 공공데이터 전처리 및 시각화
  4. 게임 {word game} (Python)<br>
   ToyProject<br>
   <div>
