@@ -21,7 +21,10 @@
  4. 게임 {word game} (Python)<br>
   ToyProject<br>
   <div>
-  <a href= 
+  <a href="https://github.com/kiarnel/PORTFOLIO/tree/main/ToyProject/word%20Game/WordGame.png"><img src="https://github.com/kiarnel/PORTFOLIO/tree/main/ToyProject/word%20Game/WordGame.png" alt=WordGame></a>
+  
+    <p>[영어 단어 맞추기 게임]</p>
+  </div>
   
         
         
