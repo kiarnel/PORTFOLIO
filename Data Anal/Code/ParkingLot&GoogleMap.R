@@ -20,7 +20,7 @@ table(parking_lot1$addr1)
 barplot(table(parking_lot1$addr1))
 parking_lot1 %>% count(addr1)
 #goolgle맵 이용 시각화
-ggmap_key<-'AIzaSyBzhYkZWSYHj5jWt_Lig1ioUekdtgHGiyg'
+ggmap_key<-'AIzaSXXXXXXXXXXXXXXXXXXXXXXXXXXXX'
 register_google(ggmap_key)
 parking_lot1<-mutate_geocode(data=parking_lot1,location = addr2,source='google')
 
