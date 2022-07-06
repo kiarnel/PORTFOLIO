@@ -31,15 +31,16 @@
  <br>
  4. 게임 {word game} (Python), {lotto} (java)<br>
   ToyProject<br>
+  <p>[영어 단어 맞추기 게임]</p>
   <div>
   <a href="https://github.com/kiarnel/PORTFOLIO/blob/main/ToyProject/word%20Game/WordGame.png"><img src="https://github.com/kiarnel/PORTFOLIO/blob/main/ToyProject/word%20Game/WordGame.png" alt=WordGame></a>
    </div>
-    <p>[영어 단어 맞추기 게임]</p>
     
+   <p> [로또]</p>
    <div>
    <a href="https://github.com/kiarnel/PORTFOLIO/blob/main/ToyProject/word%20Game/%EB%A1%9C%EB%98%90.PNG"><img src="https://github.com/kiarnel/PORTFOLIO/blob/main/ToyProject/word%20Game/%EB%A1%9C%EB%98%90.PNG" alt=lotto></a>
    </div>
-   <p> [로또]
+   
  
   
         
