@@ -29,12 +29,17 @@
  </div>
  <p>R Studio를 이용한 공공데이터 전처리 및 시각화</p>
  <br>
- 4. 게임 {word game} (Python)<br>
+ 4. 게임 {word game} (Python), {lotto} (java)<br>
   ToyProject<br>
   <div>
   <a href="https://github.com/kiarnel/PORTFOLIO/blob/main/ToyProject/word%20Game/WordGame.png"><img src="https://github.com/kiarnel/PORTFOLIO/blob/main/ToyProject/word%20Game/WordGame.png" alt=WordGame></a>
    </div>
     <p>[영어 단어 맞추기 게임]</p>
+    
+   <div>
+   <a href="https://github.com/kiarnel/PORTFOLIO/blob/main/ToyProject/word%20Game/로또.png"><img src="https://github.com/kiarnel/PORTFOLIO/blob/main/ToyProject/word%20Game/로또.png" alt=lotto></a>
+   </div>
+   <p> [로또]
  
   
         
