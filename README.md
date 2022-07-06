@@ -33,7 +33,7 @@
   ToyProject<br>
   <p>[영어 단어 맞추기 게임]</p>
   <div>
-  <a href="https://github.com/kiarnel/PORTFOLIO/blob/main/ToyProject/word%20Game/WordGame.png"><img src="https://github.com/kiarnel/PORTFOLIO/blob/main/ToyProject/word%20Game/WordGame.png" alt=WordGame></a>
+  <a href="https://github.com/kiarnel/PORTFOLIO/blob/main/ToyProject/word%20Game/%EC%98%81%EC%96%B4%EB%8B%A8%EC%96%B4%20%EB%A7%9E%EC%B6%94%EA%B8%B01%20(1).py"><img src="https://github.com/kiarnel/PORTFOLIO/blob/main/ToyProject/word%20Game/WordGame.png" alt=WordGame></a>
    </div>
     
    <p> [로또]</p>
