@@ -37,7 +37,7 @@
     <p>[영어 단어 맞추기 게임]</p>
     
    <div>
-   <a href="https://github.com/kiarnel/PORTFOLIO/blob/main/ToyProject/word%20Game/로또.png"><img src="https://github.com/kiarnel/PORTFOLIO/blob/main/ToyProject/word%20Game/로또.png" alt=lotto></a>
+   <a href="https://github.com/kiarnel/PORTFOLIO/blob/main/ToyProject/word%20Game/%EB%A1%9C%EB%98%90.PNG"><img src="https://github.com/kiarnel/PORTFOLIO/blob/main/ToyProject/word%20Game/%EB%A1%9C%EB%98%90.PNG" alt=lotto></a>
    </div>
    <p> [로또]
  
