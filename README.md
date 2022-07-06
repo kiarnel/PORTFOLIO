@@ -9,7 +9,7 @@
         2.'address'data - used naver api - 'lat,lon' data get<br>
         <br>
   <div>
-  <a href="https://github.com/kiarnel/PORTFOLIO/blob/main/Model%20Restaurant%20in%20Seoul/Image/Map2.png"><img src="https://github.com/kiarnel/PORTFOLIO/blob/main/Model%20Restaurant%20in%20Seoul/Image/Map2.png"></a>
+  <a href="https://github.com/kiarnel/PORTFOLIO/tree/main/Model%20Restaurant%20in%20Seoul/Code"><img src="https://github.com/kiarnel/PORTFOLIO/blob/main/Model%20Restaurant%20in%20Seoul/Image/Map2.png"></a>
   </div>
   <p> 서울시 모범식당 </p>
   <br>
