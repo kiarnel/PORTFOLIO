@@ -1,8 +1,8 @@
 # model-restaurant-in-seoul
 
 Temaproject : looking for model-restaurant in seoul and notify a information for its.
-<br> period: 1 week
-<br> member : 4 
+<br> period: 2 week
+<br> member : 3 
 
 
 order <br>
